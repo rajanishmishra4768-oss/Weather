@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast",
+  "description": "Modern weather forecast app with real-time conditions, hourly and 7-day forecasts, and worldwide location search across different countries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
